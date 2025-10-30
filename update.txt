@@ -1,0 +1,2 @@
+# Work Log
+Add example for custom configuration setup
